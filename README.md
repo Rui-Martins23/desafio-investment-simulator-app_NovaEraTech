@@ -18,7 +18,7 @@ Desafio prático com o objetivo de aplicar **Jetpack Compose**, navegação decl
 
 ## Arquitetura
 
-O projeto segue a arquitetura **MVVM (Model-View-ViewModel)** com **Jetpack Compose**, garantindo separação de conceitos e reatividade na UI:
+O projeto segue a arquitetura **MVVM (Model-View-ViewModel)** com **Jetpack Compose**, garantindo a separação de conceitos e reatividade na UI:
 
 ```
 ✅ UI LAYER (Presentation)
